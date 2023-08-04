@@ -1,0 +1,34 @@
+**Quiz Questions:**
+
+1. Scalar Data Types:
+a) What is the purpose of the NUMBER data type in PL/SQL?
+    c. To store numeric values.
+2. Composite Data Types:
+a) What does the VARRAY data type represent in PL/SQL?
+    b. A fixed-size array.
+3. Reference Data Types:
+a) What is the purpose of the REF CURSOR data type in PL/SQL?
+    c. To return query results from procedures and functions.
+4. LOB Data Types:
+a) Which data type is suitable for storing large amounts of character data in PL/SQL?
+    a. CLOB
+5. Collection Data Types:
+a) Which collection data type allows you to access elements using a unique key in PL/SQL?
+    c. Associative Array (PL/SQL Table)
+6. Scalar Data Types:
+a) Which data type is used to store character data with a fixed length in PL/SQL?
+    b. CHAR
+7. Composite Data Types:
+a) What is the purpose of the RECORD data type in PL/SQL?
+    b. To create user-defined functions.
+8. Reference Data Types:
+a) How does the REF data type in PL/SQL differ from a REF CURSOR?
+    a. REF CURSOR is used for dynamic queries, while REF is used for referencing objects.
+9. LOB Data Types:
+a) What is the purpose of the BFILE data type in PL/SQL?
+    c. To store references to external binary files.
+10. Collection Data Types:
+a) What happens if you try to access an element beyond the bounds of a VARRAY in PL/SQL?
+    a. It raises an exception.
+
+
