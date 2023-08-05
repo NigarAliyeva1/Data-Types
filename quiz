@@ -20,7 +20,7 @@ a) Which data type is used to store character data with a fixed length in PL/SQL
     b. CHAR
 7. Composite Data Types:
 a) What is the purpose of the RECORD data type in PL/SQL?
-    b. To create user-defined functions.
+    c. To define custom data stuctures.
 8. Reference Data Types:
 a) How does the REF data type in PL/SQL differ from a REF CURSOR?
     a. REF CURSOR is used for dynamic queries, while REF is used for referencing objects.
