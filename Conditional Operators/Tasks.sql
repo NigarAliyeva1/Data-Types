@@ -19,7 +19,7 @@ DECLARE
   v_str VARCHAR2(20) := 'Active';
   v_val NUMBER := 10;
 BEGIN
-  if v_str='Active'  and v_val=10 then
+  if v_str='Active'  and v_val mod 5=0 then
 dbms_output.put_line('Valid Entry');
 else dbms_output.put_line('Inalid Entry');
 end if;
